@@ -27,7 +27,7 @@ BandMates was built using the MERN stack.
 
 3. Move into that directory in your terminal and run - npm i - to install any dependencies.
 
-4. Move out of the server directory in your terminal and clone down the front-end portion of the app - https://github.com/jpardike/final-project-server
+4. Move out of the server directory in your terminal and clone down the front-end portion of the app - https://github.com/jpardike/final-project-client
 
 5. Move into the newly created front-end directory and run - npm i - to install the dependencies for the front-end.
 
