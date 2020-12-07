@@ -1,5 +1,4 @@
 <h1 align="center">BandMates</h1>
-<img src="./readme_assets/Group 4.png" width="100%">
 
 
 ## Description
